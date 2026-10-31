@@ -3,3 +3,9 @@
 
 /* Keep the supplied portrait as the only portrait in the hero. */
 .hero-index{display:none}
+
+.institute-video{margin:24px 0 5px;width:100%;max-width:832px}
+.institute-video video{display:block;width:100%;height:auto;aspect-ratio:26/15;background:#142330;border-radius:3px}
+.institute-video figcaption{display:flex;justify-content:space-between;gap:15px;padding:12px 0;font:13px/1.4 Arial,Helvetica,sans-serif;color:#577180}
+.institute-video figcaption span{white-space:nowrap;color:#84939b}
+.event>div{min-width:0}
